@@ -1,1 +1,2 @@
 # ASAPP-Banking
+ASAPP is an online banking tool that aims to provide users with a simple and easy-to-use account opening experience for personal and business banking. The platform allows users to join a financial institution, open an account, and get approved for a loan or line of credit. ASAPP is accessible from various devices such as mobile, tablets, laptops, and desktops while ensuring safety and security for its users.
